@@ -4,8 +4,9 @@ This is the code for the Event-based Eye Tracking CVPR 2025 Challenge.
 ## Requirements
 The lines below should set up a fresh environment with everything you need:
 ```python
-conda create --name eye_tracking
+conda create --name eye_tracking python==3.10.0
 conda activate eye_tracking
+pip install torch==2.1.0 --index-url https://download.pytorch.org/whl/cu118
 pip install -r requirements.txt
 ```
 
