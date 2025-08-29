@@ -1,4 +1,4 @@
-# Event-based Eye Tracking Challenge--Solution
+# Event-based Eye Tracking Challenge--1st Solution
 This is the code for the Event-based Eye Tracking CVPR 2025 Challenge. 
 
 ## Requirements
